@@ -1,2 +1,2 @@
-# ripository
+# salams ripository
 my first repository
