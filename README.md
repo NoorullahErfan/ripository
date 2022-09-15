@@ -1,2 +1,2 @@
 # ripository
-my first repository
+my first rep
